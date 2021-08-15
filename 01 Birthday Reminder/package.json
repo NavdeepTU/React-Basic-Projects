@@ -2,7 +2,7 @@
   "name": "reminder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NavdeepTU.github.io/React-Basic-Projects/01-birthday-reminder",
+  "homepage": "https://NavdeepTU.github.io/React-Basic-Projects/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
