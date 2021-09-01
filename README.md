@@ -6,3 +6,4 @@ useState()
 04. Accordion - https://accordion-reactjsapp.netlify.app/
 05. Menu - https://menu-reactjsapp.netlify.app/
 06. Tabs - https://tabs-reactjsapp.netlify.app/
+07. Slider - https://slider-reactjsapp.netlify.app/
