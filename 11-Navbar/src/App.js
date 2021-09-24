@@ -5,6 +5,8 @@ function App() {
   return (
     <>
       <Navbar />
+
+      <h1 className="lead">Change the screen width to see the functionality</h1>
     </>
   );
 }
