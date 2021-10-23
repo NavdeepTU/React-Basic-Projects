@@ -25,4 +25,4 @@ useRef()
 useContext()
 
 12.  Sidebar-Modal - https://sidebar-modal-reactjsapp-navdeep.netlify.app/
-13.  Stripe-Submenus - https://stripe-sumenus-reactjsapp-navdeep.netlify.app/
+13.  Stripe-Submenus - https://stripe-submenus-reactjsapp-navdeep.netlify.app/
